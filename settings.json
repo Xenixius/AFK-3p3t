@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "MineCraft-BQCw.aternos.me", 
-    "port": 61885,   
+    "ip": "3p3t.aternos.me", 
+    "port": 41215,   
     "version": "1.12.1"   
   },
   
@@ -30,8 +30,8 @@
     },
 
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 100,
 
       "messages": [
