@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Server", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "MineCraft-BQCw.aternos.me", 
+    "port": 61885,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 100,
+
+      "messages": [
+        "Tuân thủ luật của Server !!!",
+        "Không phá hoại/cướp/scam đồ của người khác, không gây tổn hại đến Server.",
+        "Trường hợp bị phá hoại/cướp/scam có thể báo lại và sẽ Ban vĩnh viễn !!!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
