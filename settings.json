@@ -30,14 +30,14 @@
     },
 
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 100,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 300,
 
       "messages": [
-        "Tuân thủ luật của Server !!!",
-        "Không phá hoại/cướp/scam đồ của người khác, không gây tổn hại đến Server.",
-        "Trường hợp bị phá hoại/cướp/scam có thể báo lại và sẽ Ban vĩnh viễn !!!"
+        "Không luật lệ !",
+        "Không luật lệ !",
+        "Không luật lệ !"
       ]
     },
 
